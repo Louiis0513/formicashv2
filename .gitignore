@@ -1,0 +1,11 @@
+# Caché en runtime (se regenera)
+/cache/*
+!/cache/.htaccess
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+*.log
